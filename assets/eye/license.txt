@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chameleobot Eye animation test
+* source:	https://sketchfab.com/3d-models/chameleobot-eye-animation-test-170130d16d934632986e66629b79c643
+* author:	GenEugene (https://sketchfab.com/geneugene)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chameleobot Eye animation test" (https://sketchfab.com/3d-models/chameleobot-eye-animation-test-170130d16d934632986e66629b79c643) by GenEugene (https://sketchfab.com/geneugene) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
